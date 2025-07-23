@@ -1,0 +1,29 @@
+# Employee Salary Prediction
+
+This project predicts whether an employee earns more than 50K or not based on their personal and professional attributes.
+It uses various ML models, with **Gradient Boosting** performing best with *accuracy = 85.71%*.
+
+# Models Tried
+- Logistic Regression
+- Random Forest
+- K-Nearest Neighbors (KNN)
+- Support Vector Machine (SVM)
+- Gradient Boosting Best (0.8571 accuracy)
+
+# Technologies Used
+- Python
+- Pandas, NumPy, Scikit-learn
+- Streamlit (for web UI)
+- Jupyter Notebook
+
+# Dataset
+Modified Adult Dataset (UCI Machine Learning Repository)
+
+# How to Run the App
+1. Install packages:  
+   'pip install -r requirements.txt'
+2. Run Streamlit app:  
+   'streamlit run app.py'
+
+# Screenshots
+*Screenshots of the notebook, model accuracy, and app UI*
